@@ -11,23 +11,23 @@
     <h3>To display this world map in different projections, I first uploaded the shapefile into QGIS. After that, I installed the Indicatrix mapper plugin by clicking the "manage and install plugins" button in the toolbar. Then I ran the plugin by using the button in the upper left hand corner, which provided the circles that show distortion on the map. To change the CRS, I searched for the EPSG number on the CRS tab of the project properties window and applied the one I wanted. Once I had the map, I created a new print layout where I labeled the map and saved it as a png to display on this site.</h3>
 
     <h2>WGS 84 Projection</h2>
-    <h3>This rectangular projection retains the features of area and shape on the equator, but stretches moving North or South.</h3>
+    <h3>This rectangular projection represents the shape and area of countries close to the equator very well, but when latitude changes, both size and shape become less accurate.</h3>
     <img width="500" src="./maps/4326.png" alt="">
 
     <h2>Aitoff Projection</h2>
-    <h3>This projection curves the map around what looks like part of a globe. The farther away from the prime meridian and equator, the more distorted and larger the countries are.</h3>
+    <h3>This projection curves the map around what looks like part of a globe. The farther away from the prime meridian and equator, the more distorted and larger the countries are. Most of Africa and South America looks accurate, while Northern Asia, Europe, and North America are distorted.</h3></h3>
     <img width="500" src="./maps/54043.png" alt="">
 
     <h2>EPSG: 3857 - Pseudo-Mercator Projection</h2>
-    <h3>This rectangular projection maintains shape and direction, but area is distorted moving away from the equator going North or South.</h3>
+    <h3>This rectangular projection maintains shape and direction, but area is distorted moving away from the equator going North or South, so countries near the equator are best represented. </h3>
     <img width="500" src="./maps/3857.png" alt="">
 
     <h2>EPSG: 53018 - Winkel I Projection</h2>
-    <h3>This projection is more ellipsoid-shaped, and strikes a balance between shape distortion and size distortion.</h3>
+    <h3>This projection is more ellipsoid-shaped, and strikes a balance between shape distortion and size distortion. The Northern-most and Southern-most portions of the globe are still larger and more stretched than the rest of the map.</h3>
     <img width="500" src="./maps/53018.png" alt="">
 
     <h2>EPSG: 54034 Projection - World Cylindrical Equal Area</h2>
-    <h3>This map was made by wrapping a cylinder around the globe. The North and South of the globe are very stretched out, while the equator is the closest to being truly represented..</h3>
+    <h3>This map was made by wrapping a cylinder around the globe. The North and South of the globe are very stretched out, while the equator is the closest to being truly represented.</h3>
     <img width="500" src="./maps/54034.png" alt="">
 
     <h2>EPSG: 54027 - World Equidistant Conic Projection</h2>
@@ -35,11 +35,11 @@
     <img width="500" src="./maps/54027.png" alt="">
 
     <h2>EPSG: 102016 - North Pole Azimuthal Projection</h2>
-    <h3>This map was made by projecting part of the globe around a chosen point, here the north pole, to create a circular map. Farther away from the north pole, both shape and area are distorted. </h3>
+    <h3>This map was made by projecting part of the globe around a chosen point, here the north pole, to create a circular map. Areas closest to the north pole are the most accurate, while farther away both shape and area are distorted. </h3>
     <img width="500" src="./maps/102016.png" alt="">
 
     <h2>EPSG: 54008 - World Sinusoidal Projection</h2>
-    <h3>This projection minimizes distortion at the equator, but the North and South of the map are strangely shaped and too large.</h3>
+    <h3>This projection minimizes distortion at the equator, and seems to preserve area as well, but the North and South of the map are strangely shaped and direction is not accurate.</h3>
     <img width="500" src="./maps/54008.png" alt="">
 
     <h2>EPSG: 54030 - World Robinson Projection</h2>
