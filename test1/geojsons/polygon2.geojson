@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "polygon2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "Change": "New building" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.021097892164491, 42.368082777481796 ], [ -71.022470971043973, 42.366429946733902 ], [ -71.020836686222921, 42.365718498442227 ], [ -71.019448309486478, 42.367339853288449 ], [ -71.021097892164491, 42.368082777481796 ] ] ] ] } }
+]
+}
