@@ -1,0 +1,58 @@
+GEO_ID,NAME,S1901_C01_001E,S1901_C01_001M,S1901_C01_001MA,S1901_C01_001EA,S1901_C01_012E,S1901_C01_012EA,S1901_C01_012M,S1901_C01_012MA,S1901_C01_013E,S1901_C01_013EA,S1901_C01_013M
+Geography,Geographic Area Name,Estimate!!Households!!Total,Margin of Error!!Households!!Total,Annotation of Margin of Error!!Households!!Total,Annotation of Estimate!!Households!!Total,Estimate!!Households!!Median income (dollars),Annotation of Estimate!!Households!!Median income (dollars),Margin of Error!!Households!!Median income (dollars),Annotation of Margin of Error!!Households!!Median income (dollars),Estimate!!Households!!Mean income (dollars),Annotation of Estimate!!Households!!Mean income (dollars),Margin of Error!!Households!!Mean income (dollars)
+0500000US30001,"Beaverhead County, Montana",3984,145,null,null,51048,null,3647,null,68713,null,5554
+0500000US30003,"Big Horn County, Montana",3534,141,null,null,49640,null,3388,null,63992,null,4903
+0500000US30005,"Blaine County, Montana",2248,101,null,null,50847,null,6650,null,60710,null,4013
+0500000US30007,"Broadwater County, Montana",2757,127,null,null,60244,null,7306,null,75566,null,13903
+0500000US30009,"Carbon County, Montana",4512,187,null,null,63178,null,4261,null,81701,null,7195
+0500000US30011,"Carter County, Montana",618,60,null,null,41447,null,4097,null,59649,null,9223
+0500000US30013,"Cascade County, Montana",34194,440,null,null,56377,null,2240,null,73695,null,2223
+0500000US30015,"Chouteau County, Montana",2201,92,null,null,48237,null,4368,null,66020,null,4947
+0500000US30017,"Custer County, Montana",4872,161,null,null,55426,null,5494,null,75693,null,5181
+0500000US30019,"Daniels County, Montana",784,70,null,null,54722,null,13378,null,67748,null,8072
+0500000US30021,"Dawson County, Montana",3893,175,null,null,57684,null,10046,null,71547,null,7097
+0500000US30023,"Deer Lodge County, Montana",4161,268,null,null,44809,null,3405,null,59444,null,5125
+0500000US30025,"Fallon County, Montana",1184,98,null,null,83750,null,19941,null,102480,null,12342
+0500000US30027,"Fergus County, Montana",5208,153,null,null,52941,null,5447,null,66583,null,4879
+0500000US30029,"Flathead County, Montana",40780,545,null,null,63582,null,2226,null,84557,null,3476
+0500000US30031,"Gallatin County, Montana",46378,1692,null,null,76208,null,2868,null,104611,null,4025
+0500000US30033,"Garfield County, Montana",404,52,null,null,55000,null,12622,null,76329,null,10159
+0500000US30035,"Glacier County, Montana",4005,177,null,null,39441,null,4007,null,58647,null,4851
+0500000US30037,"Golden Valley County, Montana",349,47,null,null,46607,null,8227,null,59021,null,6690
+0500000US30039,"Granite County, Montana",1337,128,null,null,49077,null,5457,null,78794,null,15295
+0500000US30041,"Hill County, Montana",6243,164,null,null,56840,null,4786,null,66253,null,2993
+0500000US30043,"Jefferson County, Montana",4604,150,null,null,72500,null,10653,null,92497,null,5892
+0500000US30045,"Judith Basin County, Montana",879,63,null,null,51691,null,11743,null,74560,null,15426
+0500000US30047,"Lake County, Montana",11756,255,null,null,53154,null,3343,null,72873,null,4947
+0500000US30049,"Lewis and Clark County, Montana",30011,376,null,null,66486,null,2656,null,87691,null,3614
+0500000US30051,"Liberty County, Montana",765,79,null,null,46507,null,5988,null,76274,null,14775
+0500000US30053,"Lincoln County, Montana",8458,309,null,null,41922,null,3180,null,60483,null,4783
+0500000US30055,"McCone County, Montana",829,84,null,null,63365,null,12173,null,75722,null,9642
+0500000US30057,"Madison County, Montana",3480,212,null,null,56410,null,5367,null,72176,null,4642
+0500000US30059,"Meagher County, Montana",819,82,null,null,51709,null,6594,null,64486,null,10284
+0500000US30061,"Mineral County, Montana",1981,97,null,null,50750,null,6333,null,65761,null,8389
+0500000US30063,"Missoula County, Montana",49437,681,null,null,61423,null,2067,null,85169,null,3830
+0500000US30065,"Musselshell County, Montana",2179,156,null,null,51153,null,3276,null,69407,null,10330
+0500000US30067,"Park County, Montana",7920,226,null,null,58510,null,5069,null,80705,null,7514
+0500000US30069,"Petroleum County, Montana",195,43,null,null,54375,null,23010,null,71143,null,15018
+0500000US30071,"Phillips County, Montana",1732,97,null,null,50789,null,9022,null,64119,null,6736
+0500000US30073,"Pondera County, Montana",2188,109,null,null,55865,null,4811,null,76335,null,8047
+0500000US30075,"Powder River County, Montana",758,77,null,null,55833,null,7946,null,76511,null,9793
+0500000US30077,"Powell County, Montana",2300,141,null,null,53111,null,9698,null,63326,null,6627
+0500000US30079,"Prairie County, Montana",484,61,null,null,44500,null,13477,null,65067,null,13776
+0500000US30081,"Ravalli County, Montana",18749,345,null,null,59640,null,3687,null,80721,null,5144
+0500000US30083,"Richland County, Montana",4540,229,null,null,62530,null,5808,null,75636,null,5327
+0500000US30085,"Roosevelt County, Montana",3122,86,null,null,47182,null,3290,null,58273,null,2874
+0500000US30087,"Rosebud County, Montana",2944,116,null,null,59339,null,4053,null,68208,null,5154
+0500000US30089,"Sanders County, Montana",5390,176,null,null,46848,null,5061,null,59979,null,4180
+0500000US30091,"Sheridan County, Montana",1444,95,null,null,58786,null,5485,null,89051,null,14569
+0500000US30093,"Silver Bow County, Montana",15028,383,null,null,50331,null,3538,null,68196,null,4760
+0500000US30095,"Stillwater County, Montana",3733,141,null,null,72906,null,6531,null,90890,null,5128
+0500000US30097,"Sweet Grass County, Montana",1389,107,null,null,59238,null,4802,null,75939,null,6958
+0500000US30099,"Teton County, Montana",2428,126,null,null,60431,null,4341,null,72571,null,6373
+0500000US30101,"Toole County, Montana",1805,130,null,null,54137,null,5905,null,78000,null,10802
+0500000US30103,"Treasure County, Montana",335,52,null,null,55313,null,17045,null,69036,null,10799
+0500000US30105,"Valley County, Montana",2892,157,null,null,53667,null,4032,null,68359,null,4390
+0500000US30107,"Wheatland County, Montana",839,67,null,null,38893,null,7098,null,54174,null,9502
+0500000US30109,"Wibaux County, Montana",422,56,null,null,49000,null,11540,null,64646,null,9098
+0500000US30111,"Yellowstone County, Montana",67000,553,null,null,65656,null,1785,null,91222,null,3885
